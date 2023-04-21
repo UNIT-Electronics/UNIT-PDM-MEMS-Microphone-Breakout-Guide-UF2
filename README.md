@@ -1,6 +1,6 @@
-# [UNIT PDM MEMS Microphone](https://github.com/Rabadan-uelectronics/UNIT-PDM-MEMS-Microphone) Breakout Guide with UF2 File
+# [UNIT PDM MEMS Microphone](https://github.com/UNIT-Electronics/UNIT-PDM-MEMS-Microphone-MP34DT05) Breakout Guide with UF2 File
 
-<a href="https://github.com/Rabadan-uelectronics/UNIT-PDM-MEMS-Microphone/blob/main/Hardware/UNIT_PDM_MIC-schematic.pdf"><img src="https://github.com/Rabadan-uelectronics/UNIT-PDM-MEMS-Microphone/blob/main/Hardware/Schematics_icon.jpg?raw=false" width="500px"><br/> Schematics</a>
+<a href="https://github.com/UNIT-Electronics/UNIT-PDM-MEMS-Microphone-MP34DT05/blob/main/Hardware/UNIT_PDM_MIC-schematic.pdf"><img src="https://github.com/UNIT-Electronics/UNIT-PDM-MEMS-Microphone-MP34DT05/blob/main/Hardware/Schematics_icon.jpg?raw=false" width="500px"><br/> Schematics</a>
 
 In this guide we are to connect an UNIT PDM microphone MP34DT05 module to the RP2040 microcontroller, following these steps:
 

@@ -13,11 +13,11 @@ Locate the 4-pin JST connector for RP2040 microcontroller (GPIO12 and GPIO13 pin
 * DualMCU (GPIO12) to PDM-MIC (SCL signal)
 * DualMCU (GPIO13) to PDM-MIC (DAT signal)
 
-![image](https://github.com/Rabadan-uelectronics/UNIT-PDM-MEMS-Microphone/blob/main/Hardware/MicConectionsJST1.jpg)
+![image](https://github.com/UNIT-Electronics/UNIT-PDM-MEMS-Microphone-MP34DT05/blob/main/Hardware/MicConectionsJST1.jpg)
 
 With these steps, you should be able to successfully connect your UNIT PDM microphone MP34DT05 module to the RP2040 microcontroller on the DualMCU board.
 
-<img src="https://github.com/Rabadan-uelectronics/UNIT-PDM-MEMS-Microphone/blob/main/Hardware/Mic%26DualMCU.jpg?raw=false" width="1000px"><br/>
+<img src="https://github.com/UNIT-Electronics/UNIT-PDM-MEMS-Microphone-MP34DT05/blob/main/Hardware/Mic%26DualMCU.jpg?raw=false" width="1000px"><br/>
 
 Power on the DualMCU board and the PDM microphone module.
 
@@ -41,13 +41,13 @@ Then hit the RST and BOOT buttons, you will see a new windows appears and then d
 
 Once the file finished to uploading, go to device manager a you can see your DualMCU recognized as UNITMic as show in the following image:
 
-![image](https://github.com/Rabadan-uelectronics/UNIT-PDM-MEMS-Microphone/blob/main/Hardware/DeviceManager.jpg)
+![image](https://github.com/UNIT-Electronics/UNIT-PDM-MEMS-Microphone-MP34DT05/blob/main/Hardware/DeviceManager.jpg)
  
 Now you are ready to start and enjoy using your UNIT PDM microphone as a USB microphone, we recommend that you use the following online audio recorder to do some testing:
 
 [https://online-voice-recorder.com/es/](https://online-voice-recorder.com/es/)
 
-![image](https://github.com/Rabadan-uelectronics/UNIT-PDM-MEMS-Microphone/blob/main/Hardware/RecordedAudio.jpg)
+![image](https://github.com/UNIT-Electronics/UNIT-PDM-MEMS-Microphone-MP34DT05/blob/main/Hardware/RecordedAudio.jpg)
 
 # THANKS!
 

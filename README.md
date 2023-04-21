@@ -4,7 +4,7 @@
 
 In this guide we are to connect an UNIT PDM microphone MP34DT05 module to the RP2040 microcontroller, following these steps:
 
-First, make sure that you have all the necessary: an [UNIT PDM microphone module](https://github.com/Rabadan-uelectronics/UNIT-PDM-MEMS-Microphone), a [JST SH 4-pin cable 1 mm pitch](https://uelectronics.com/producto/conectores-sh1-0mm-con-cable-28-awg-15cm/) and the RP2040 microcontroller development board, we use a [DualMCU](https://uelectronics.com/producto/unit-dualmcu-esp32-rp2040-tarjeta-de-desarrollo/) board to make the example.
+First, make sure that you have all the necessary: an [UNIT PDM microphone module](https://github.com/UNIT-Electronics/UNIT-PDM-MEMS-Microphone-MP34DT05), a [JST SH 4-pin cable 1 mm pitch](https://uelectronics.com/producto/conectores-sh1-0mm-con-cable-28-awg-15cm/) and the RP2040 microcontroller development board, we use a [DualMCU](https://uelectronics.com/producto/unit-dualmcu-esp32-rp2040-tarjeta-de-desarrollo/) board to make the example.
 
 Locate the 4-pin JST connector for RP2040 microcontroller (GPIO12 and GPIO13 pins) on the DualMCU board ([Pinout](https://raw.githubusercontent.com/UNIT-Electronics/DualMCU/main/Hardware/Resources/EU0002-DUALMCU%20V3.1.2.jpg)). Connect the PDM microphone module to the DualMCU board using the four pin JST cable, following these connections:
 

@@ -23,7 +23,7 @@ Power on the DualMCU board and the PDM microphone module.
 
 Follow the next instructions and steps required to enable BOOT mode on the RP2040, and drag and drop [usb_microphone.uf2](https://github.com/UNIT-Electronics/DualMCU/blob/main/Software/UF2_Files/usb_microphone.uf2) file on the DualMCU board.
 
-* **usb_microphone.uf2** is an example file that can be used to transform a development board like [UNIT DualMCU](https://github.com/Rabadan-uelectronics/DualMCU-RP2040-Arduino-Package/blob/main/releases/download/1.0.0/DualMCU-rp2040-1.0.0.zip), [the Raspberry Pi Pico](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html) into a high-performance USB microphone using the RP2040 microcontroller. This PDM Mic module, allows the RP2040 to function as an excellent microphone for use in video conferences or simply for entertainment, with very good sound quality. This file is particularly useful for those looking to add microphone functionality to their project or to explore the capabilities of the RP2040 microcontroller.
+* **usb_microphone.uf2** is an example file that can be used to transform a development board like [UNIT DualMCU](https://github.com/UNIT-Electronics/DualMCU), [the Raspberry Pi Pico](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html) into a high-performance USB microphone using the RP2040 microcontroller. This PDM Mic module, allows the RP2040 to function as an excellent microphone for use in video conferences or simply for entertainment, with very good sound quality. This file is particularly useful for those looking to add microphone functionality to their project or to explore the capabilities of the RP2040 microcontroller.
 
 
 # Uploading UF2 example

@@ -51,5 +51,11 @@ Now you are ready to start and enjoy using your UNIT PDM microphone as a USB mic
 
 To return your RP2040 to normal, that is, to be recognized as a COM port on your PC again, press the same button combination and upload a Blink from your Arduino IDE to the UF2 port.
 
+![image](https://github.com/UNIT-Electronics/UNIT-PDM-MEMS-Microphone-Breakout-Guide-UF2/blob/Volver-de-UF2-a-COM/UF2%20PORT.jpg)
+
+Once the program has finished downloading, press the Reset button and your RP2040 will be recognized again as a COM port on your PC.
+
+
+
 # THANKS!
 

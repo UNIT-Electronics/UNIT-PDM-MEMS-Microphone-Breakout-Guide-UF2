@@ -55,6 +55,7 @@ To return your RP2040 to normal, that is, to be recognized as a COM port on your
 
 Once the program has finished downloading, press the Reset button and your RP2040 will be recognized again as a COM port on your PC.
 
+![image](https://github.com/UNIT-Electronics/UNIT-PDM-MEMS-Microphone-Breakout-Guide-UF2/blob/Volver-de-UF2-a-COM/com%20port.jpg)
 
 
 # THANKS!
